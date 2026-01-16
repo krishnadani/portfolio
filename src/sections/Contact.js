@@ -37,10 +37,11 @@ function Contact() {
             transition={{ delay: 0.2 }}
             viewport={{ once: true }}
           >
+            {/* Email */}
             <div className="col-md-4 col-sm-6">
               <div className="border rounded-4 p-3 h-100 shadow-sm">
                 <i className="fa-solid fa-envelope text-success fs-4 mb-2"></i>
-                <h6 className="fw-bold mb-1"></h6>
+                <h6 className="fw-bold mb-1">Email</h6>
                 <a
                   href="mailto:krishnagdani@gmail.com"
                   className="text-decoration-none text-muted"
@@ -50,10 +51,11 @@ function Contact() {
               </div>
             </div>
 
+            {/* Phone */}
             <div className="col-md-4 col-sm-6">
               <div className="border rounded-4 p-3 h-100 shadow-sm">
                 <i className="fa-solid fa-phone text-success fs-4 mb-2"></i>
-                <h6 className="fw-bold mb-1"></h6>
+                <h6 className="fw-bold mb-1">Phone</h6>
                 <a
                   href="tel:+917411129094"
                   className="text-decoration-none text-muted"
