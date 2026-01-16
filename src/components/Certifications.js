@@ -7,21 +7,21 @@ const certifications = [
     issuer: "Udemy",
     issued: "July 2025",
     credentialId: "UC-8897db59-bc69-4f83-af3b-5643c7d8af88",
-    link: "https://ude.my/UC-8897db59-bc69-4f83-af3b-5643c7d8af88",
+    link: "https://www.udemy.com/certificate/UC-88f7d591-6c98-4f3f-a9a6-5634c7d5a8f8/",
   },
   {
     title: "Hands On React JS From Beginner to Expert",
     issuer: "Udemy",
     issued: "September 2025",
     credentialId: "UC-4054964c-df2a-4ff6-8e03-a0d96522797e",
-    link: "https://ude.my/UC-4054964c-df2a-4ff6-8e03-a0d96522797e",
+    link: "https://www.udemy.com/certificate/UC-a40549dc-af2a-4f16-8e03-ab996522579e/",
   },
   {
     title: "Mastering the Basics of Git: A Step-by-Step Guide",
     issuer: "Udemy",
     issued: "March 2025",
     credentialId: "UC-9af372aa-1987-49a0-8480-e48322096e42",
-    link: "https://ude.my/UC-9af372aa-1987-49a0-8480-e48322096e42",
+    link: "https://www.udemy.com/certificate/UC-9a1827aa-1397-49a9-8480-ea33822066e2/",
   },
 ];
 
